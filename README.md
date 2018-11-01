@@ -16,6 +16,8 @@ It's true that Stack Overflow is meant for knowledge sharing. That being said, a
 Front-End FAQ will be the one place you can go to for all your Front-end questions, while remaining anonymous.  Plus, it's a great way to contribute to open-source. <br /> <br />
 
 # Table Of Contents
+[General](#general)
+
 [HTML](#html)
 
 [CSS](#css)
@@ -28,7 +30,19 @@ Front-End FAQ will be the one place you can go to for all your Front-end questio
 
 [Node](#node)
 
+[React](#react)
+
  <br/> <br/> <br/>
+ 
+ 
+ 
+ # General
+ **What IDE should I use?**   
+ _Waiting for response_   
+ 
+ <br/><br/><br/>
+ 
+ 
 
 # HTML   
 **What are `<div>` and `<span>`?  Why would you use them?**
@@ -54,6 +68,10 @@ _Waiting for response_
 
 **What is the best/most performant way to include media queries? Is it better to put them all in one CSS file or split them up into different CSS files per component or page?**  
 _Waiting for response_
+
+**What are CSS pre-processors and how do I get started with one?**   
+_Waiting for response_   
+
 <br/><br/><br/>
 
 
@@ -61,7 +79,11 @@ _Waiting for response_
 # JavaScript   
 
 **What is a Promise and how do you use it?**  
-_Waiting for response_
+_Waiting for response_   
+
+**Is it fine to learn JavaScript as your first language for web development or is it better to start with HTML and CSS**   
+_Waiting for response_   
+
 
 <br/><br/><br/>
 
@@ -100,3 +122,9 @@ _Waiting for response_
 # Node  
 **Where do I find other people's Node.js code for small projects? GitHub doesn't seem to display it?**  
 _Waiting for response_
+
+
+# React
+**What are the pre requesites(excluding the general HTML, CSS, and JS) before starting off with React?**
+_Waiting for response_   
+
