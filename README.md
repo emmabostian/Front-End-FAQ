@@ -16,14 +16,17 @@ It's true that Stack Overflow is meant for knowledge sharing. That being said, a
 Front-End FAQ will be the one place you can go to for all your Front-end questions, while remaining anonymous.  Plus, it's a great way to contribute to open-source. <br /> <br />
 
 # Table Of Contents
-[HTML](#html) <br />
-[CSS](#css) <br />
-[JavaScript](#javascript) <br />
-[Performance](#performance) <br />
-[Accessibility](#accessibility) <br /> <br /> <br />
+[HTML](#html)  
+[CSS](#css)  
+[JavaScript](#javascript) 
+[Performance](#performance)  
+[Accessibility](#accessibility)  
+[Node](#node)
+
+ <br/> <br/> <br/>
 
 # HTML   
-**What are `<div>` and `<span>`?  Why would you use them?** <br/>
+**What are `<div>` and `<span>`?  Why would you use them?**  
 _Waiting for response_
 
 <br/><br/><br/>
@@ -31,7 +34,7 @@ _Waiting for response_
 
 # CSS  
 
-**What is the difference between absolute and fixed positioning?** <br/>
+**What is the difference between absolute and fixed positioning?**  
 _Waiting for response_
 
 <br/><br/><br/>
@@ -40,7 +43,7 @@ _Waiting for response_
 
 # JavaScript   
 
-**What is a Promise and how do you use it?** <br/>
+**What is a Promise and how do you use it?**  
 _Waiting for response_
 
 <br/><br/><br/>
@@ -50,7 +53,7 @@ _Waiting for response_
 
 # Performance   
 
-**What is the best way to reduce my image file size?** <br/>
+**What is the best way to reduce my image file size?** 
 
 >At minimum: use [ImageOptim](https://imageoptim.com/). It can significantly reduce the size of images while preserving visual quality. Windows and Linux [alternatives](https://imageoptim.com/versions.html) are also available.
 
@@ -58,7 +61,7 @@ _Waiting for response_
 
 From the excellent [images.guide](https://images.guide/). <br/><br/>
 
-**What is the best format for performant images? PNG? JPG? SVG?** <br/>
+**What is the best format for performant images? PNG? JPG? SVG?**  
 _Waiting for response_
 
 <br/><br/><br/>
@@ -68,10 +71,15 @@ _Waiting for response_
 
 # Accessibility   
 
-**Do I need to make my app accessible?** <br/>
+**Do I need to make my app accessible?**  
 _Waiting for response_
 
-**How do I make my app accessible?** <br/>
+**How do I make my app accessible?** 
 _Waiting for response_
 
 <br/><br/><br/>
+
+
+# Node  
+**Where do I find other people's Node.js code for small projects? GitHub doesn't seem to display it?  
+_Waiting for response_
