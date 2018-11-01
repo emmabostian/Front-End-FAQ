@@ -18,6 +18,6 @@ Front-End FAQ will be the one place you can go to for all your Front-end questio
 # Table Of Contents
 [HTML](html.md) <br />
 [CSS](css.md) <br />
-[JavaScript](js.md)
-[Performance](performance.md)
-[Accessibility](accessibility.md)
+[JavaScript](js.md) <br />
+[Performance](performance.md) <br />
+[Accessibility](accessibility.md) <br />
