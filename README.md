@@ -111,7 +111,7 @@ _Waiting for response_
 # Accessibility   
 
 **Do I need to make my app accessible?**  
-_Waiting for response_
+People will visit your website for a purpose. It may be reading the news, or finding a flight, you name it. Your visitors may be visually impaired, suffer from epilepsy or have trouble understanding complicated sentences. Think about these people, try imagine being them, and answer yourself a simple question: do I want to make their lifes even harder?
 
 **How do I make my app accessible?**  
 _Waiting for response_
