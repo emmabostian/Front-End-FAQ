@@ -14,3 +14,8 @@ Feel free to open a PR on this repo!
 It's true that Stack Overflow is meant for knowledge sharing. That being said, as a beginner I know I had a ton of questions about HTML, CSS, and JavaScript that I wanted answered, but anonymously. Stack Overflow requires you to be logged in. Yes, you can change your name, but that's a hastle and has a 30-day waiting period to re-change. I want to remove the hastle of asking and answering questions.
 
 Front-End FAQ will be the one place you can go to for all your Front-end questions, while remaining anonymous.  Plus, it's a great way to contribute to open-source.
+
+# Table Of Contents
+[HTML](html.md)
+[CSS](css.md)
+[JavaScript](js.md)
