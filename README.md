@@ -22,24 +22,28 @@ Front-End FAQ will be the one place you can go to for all your Front-end questio
 [Performance](#performance) <br />
 [Accessibility](#accessibility) <br /> <br /> <br />
 
-# HTML <br /> <br />
+# HTML <br /> <br /><br />
+
 
 # CSS <br />
 
-## What is the difference between absolute and fixed positioning? <br /> <br />
-<hr />
+## What is the difference between absolute and fixed positioning? <br /> <br /><br />
+
+
 
 # JavaScript <br />
 
-## What is a Promise and how do you use it? <br /> <br />
-<hr />
+## What is a Promise and how do you use it? <br /> <br /><br />
+
+
 
 # Performance <br />
 
 ## What is the best way to reduce my image file size? <br />
 
-## What is the best format for performant images? PNG? JPG? SVG? <br /> <br />
-<hr />
+## What is the best format for performant images? PNG? JPG? SVG? <br /> <br /><br />
+
+
 
 # Accessibility <br />
 
