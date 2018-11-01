@@ -16,11 +16,11 @@ It's true that Stack Overflow is meant for knowledge sharing. That being said, a
 Front-End FAQ will be the one place you can go to for all your Front-end questions, while remaining anonymous.  Plus, it's a great way to contribute to open-source. <br /> <br />
 
 # Table Of Contents
-[HTML](#html) <br />
-[CSS](#css) <br />
-[JavaScript](#javascript) <br />
-[Performance](#performance) <br />
-[Accessibility](#accessibility) <br /> <br /> <br />
+[HTML](# html) <br />
+[CSS](# css) <br />
+[JavaScript](# javascript) <br />
+[Performance](# performance) <br />
+[Accessibility](# accessibility) <br /> <br /> <br />
 
 # HTML <br />
 **What are `<div>` and `<span>`?  Why would you use them?** <br/>
