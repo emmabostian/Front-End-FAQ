@@ -23,14 +23,16 @@ Front-End FAQ will be the one place you can go to for all your Front-end questio
 [Accessibility](#accessibility) <br /> <br /> <br />
 
 # HTML <br />
-**What are `<div>` and `<span>`?  Why would you use them?**
+**What are `<div>` and `<span>`?  Why would you use them?** <br/>
+_Waiting for response_
 
 <br/><br/><br/>
 
 
 # CSS <br />
 
-**What is the difference between absolute and fixed positioning?**
+**What is the difference between absolute and fixed positioning?** <br/>
+_Waiting for response_
 
 <br/><br/><br/>
 
@@ -38,7 +40,8 @@ Front-End FAQ will be the one place you can go to for all your Front-end questio
 
 # JavaScript <br />
 
-**What is a Promise and how do you use it?**
+**What is a Promise and how do you use it?** <br/>
+_Waiting for response_
 
 <br/><br/><br/>
 
@@ -47,9 +50,11 @@ Front-End FAQ will be the one place you can go to for all your Front-end questio
 
 # Performance <br />
 
-**What is the best way to reduce my image file size?** <br />
+**What is the best way to reduce my image file size?** <br/>
+_Waiting for response_
 
-**What is the best format for performant images? PNG? JPG? SVG?**
+**What is the best format for performant images? PNG? JPG? SVG?** <br/>
+_Waiting for response_
 
 <br/><br/><br/>
 
@@ -58,8 +63,10 @@ Front-End FAQ will be the one place you can go to for all your Front-end questio
 
 # Accessibility <br />
 
-**Do I need to make my app accessible?** <br />
+**Do I need to make my app accessible?** <br/>
+_Waiting for response_
 
-**How do I make my app accessible?**
+**How do I make my app accessible?** <br/>
+_Waiting for response_
 
 <br/><br/><br/>
