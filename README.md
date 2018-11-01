@@ -74,7 +74,7 @@ _Waiting for response_
 **Do I need to make my app accessible?**  
 _Waiting for response_
 
-**How do I make my app accessible?** 
+**How do I make my app accessible?**  
 _Waiting for response_
 
 <br/><br/><br/>
