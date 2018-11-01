@@ -16,11 +16,16 @@ It's true that Stack Overflow is meant for knowledge sharing. That being said, a
 Front-End FAQ will be the one place you can go to for all your Front-end questions, while remaining anonymous.  Plus, it's a great way to contribute to open-source. <br /> <br />
 
 # Table Of Contents
-[HTML](#html)  
-[CSS](#css)  
-[JavaScript](#javascript) 
-[Performance](#performance)  
-[Accessibility](#accessibility)  
+[HTML](#html)
+
+[CSS](#css)
+
+[JavaScript](#javascript)
+
+[Performance](#performance)
+
+[Accessibility](#accessibility)
+
 [Node](#node)
 
  <br/> <br/> <br/>
