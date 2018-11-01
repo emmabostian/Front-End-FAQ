@@ -22,7 +22,8 @@ Front-End FAQ will be the one place you can go to for all your Front-end questio
 [Performance](#performance) <br />
 [Accessibility](#accessibility) <br /> <br /> <br />
 
-# HTML <br />
+# HTML 
+<br />
 **What are `<div>` and `<span>`?  Why would you use them?** <br/>
 _Waiting for response_
 
