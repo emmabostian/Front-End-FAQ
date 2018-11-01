@@ -22,31 +22,31 @@ Front-End FAQ will be the one place you can go to for all your Front-end questio
 [Performance](#performance) <br />
 [Accessibility](#accessibility) <br /> <br /> <br />
 
-# HTML <br /> <br /><br />
+# HTML <br /><br /><br />
 
 
 # CSS <br />
 
-<em>What is the difference between absolute and fixed positioning?</em> <br /> <br /><br />
+**What is the difference between absolute and fixed positioning?** <br /> <br /><br />
 
 
 
 # JavaScript <br />
 
-<em>What is a Promise and how do you use it?</em> <br /> <br /><br />
+**What is a Promise and how do you use it?** <br /> <br /><br />
 
 
 
 # Performance <br />
 
-<em>What is the best way to reduce my image file size?</em> <br />
+**What is the best way to reduce my image file size?** <br />
 
-<em>What is the best format for performant images? PNG? JPG? SVG?</em> <br /> <br /><br />
+**What is the best format for performant images? PNG? JPG? SVG?** <br /> <br /><br />
 
 
 
 # Accessibility <br />
 
-<em>Do I need to make my app accessible?</em> <br />
+**Do I need to make my app accessible?** <br />
 
-<em>How do I make my app accessible?</em> <br /> <br />
+**How do I make my app accessible?** <br /> <br />
