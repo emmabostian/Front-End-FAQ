@@ -29,7 +29,7 @@ _Waiting for response_
 <br/><br/><br/>
 
 
-# CSS <br />
+# CSS  
 
 **What is the difference between absolute and fixed positioning?** <br/>
 _Waiting for response_
@@ -38,7 +38,7 @@ _Waiting for response_
 
 
 
-# JavaScript <br />
+# JavaScript   
 
 **What is a Promise and how do you use it?** <br/>
 _Waiting for response_
@@ -48,7 +48,7 @@ _Waiting for response_
 
 
 
-# Performance <br />
+# Performance   
 
 **What is the best way to reduce my image file size?** <br/>
 
@@ -66,7 +66,7 @@ _Waiting for response_
 
 
 
-# Accessibility <br />
+# Accessibility   
 
 **Do I need to make my app accessible?** <br/>
 _Waiting for response_
