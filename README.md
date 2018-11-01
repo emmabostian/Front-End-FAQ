@@ -124,6 +124,9 @@ _Waiting for response_
 _Waiting for response_
 
 
+<br/><br/><br/>
+
+
 # React
 **What are the pre requesites(excluding the general HTML, CSS, and JS) before starting off with React?**
 _Waiting for response_   
