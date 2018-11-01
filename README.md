@@ -38,7 +38,7 @@ _Waiting for response_
 _Waiting for response_
 
 
-**What is the best/most performant way to include media querties? Is it better to put them all in one CSS file or split them up into different CSS files per component or page?**  
+**What is the best/most performant way to include media queries? Is it better to put them all in one CSS file or split them up into different CSS files per component or page?**  
 _Waiting for response_
 <br/><br/><br/>
 
