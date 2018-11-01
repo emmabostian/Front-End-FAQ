@@ -16,8 +16,30 @@ It's true that Stack Overflow is meant for knowledge sharing. That being said, a
 Front-End FAQ will be the one place you can go to for all your Front-end questions, while remaining anonymous.  Plus, it's a great way to contribute to open-source.
 
 # Table Of Contents
-[HTML](html.md) <br />
-[CSS](css.md) <br />
-[JavaScript](javascript.md) <br />
-[Performance](performance.md) <br />
-[Accessibility](accessibility.md) <br />
+[HTML](#html) <br />
+[CSS](#css) <br />
+[JavaScript](#javascript) <br />
+[Performance](#performance) <br />
+[Accessibility](#accessibility) <br />
+
+# HTML
+
+# CSS
+
+## What is the difference between absolute and fixed positioning?
+
+# JavaScript
+
+## What is a Promise and how do you use it?
+
+# Performance
+
+## What is the best way to reduce my image file size?
+
+## What is the best format for performant images? PNG? JPG? SVG?
+
+# Accessibility
+
+## Do I need to make my app accessible?
+
+## How do I make my app accessible?
