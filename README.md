@@ -19,3 +19,5 @@ Front-End FAQ will be the one place you can go to for all your Front-end questio
 [HTML](html.md) <br />
 [CSS](css.md) <br />
 [JavaScript](js.md)
+[Performance](performance.md)
+[Accessibility](accessibility.md)
