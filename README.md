@@ -79,7 +79,7 @@ _Waiting for response_
 From the excellent [images.guide](https://images.guide/). <br/><br/>
 
 **What is the best format for performant images? PNG? JPG? SVG?**  
-> It's between SVG and JPG. It really depends on how much detail and color variation the image has. If it's a simple vector graphic (_Something like a logo or icon_) you should safely be able to go with SVG. This can be under 1k - 5k in size. If the image is more like a photo with a considerable amount of detail and colors I would go with JPG.
+> It's between SVG and JPG. It really depends on how much detail and color variation the image has. If it's a simple vector graphic (_Something like a logo or icon_) you should safely be able to go with SVG. This can be under 1k - 5k in size. If the image is more like a photo with a considerable amount of detail and colors I would go with JPG. You should only feel compelled to reach for PNG if the file has transparency.
 
 <br/><br/><br/>
 
