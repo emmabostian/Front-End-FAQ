@@ -3,11 +3,14 @@
 **What is the difference between absolute and fixed positioning?**  
 _Absolute positioning allows you to place any page element exactly where you want it._ You use the positioning attributes top, left, bottom. and right to set the location. Ex. `position: absolute; top: 40px; left: 40px;` (These values are relative to the parent element). When you absolute position an element you treat it as an independent element on the page, which means it  will not be affected by other elements and it won't affect other elements.
 
-_A fixed position element is positioned relative to the viewport, or the browser window itself._ This is often used for navigation or sidebars because the viewport does not change at scrolling. So your fixed element will remain at the exact position you set it at. Ex. `position: fixed; top: 80px; left: 10px;`
+_A fixed position element is positioned relative to the viewport, or the browser window itself._ This is often used for navigation or sidebars because the viewport does not change at scrolling. So your fixed element will remain at the exact position you set it at. Ex. `position: fixed; top: 80px; left: 10px;`  
 
+<br/><br/>
 
 **What is the best/most performant way to include media queries? Is it better to put them all in one CSS file or split them up into different CSS files per component or page?**  
 _Waiting for response_
+
+<br/><br/>
 
 **What are CSS pre-processors and how do I get started with one?**   
 CSS pre-processors provide additional functionalities to CSS. Each one has its own syntax (which is generally very similar to CSS) and they compile down to CSS through a compiler.
