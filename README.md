@@ -37,7 +37,7 @@ Front-End FAQ will be the one place you can go to for all your Front-end questio
  
  
  # General
- **What IDE should I use?**   
+ **What IDE or code editor should I use?**   
 
 [VS Code](https://code.visualstudio.com) is a great choice and provides a lot of web friendly features out of the box, along with many 3rd party extensions to customize it just the way you like.
 
