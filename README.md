@@ -83,7 +83,7 @@ _Waiting for response_
 **What is a Promise and how do you use it?**  
 Normally, JavaScript executes statements one at a time. It will not continue with the next statement until the last one has been executed. A Promise is a piece of code that _promises_ to return some data later. This allows you to execute code in a returned Promise _asynchronously_ from the rest of your code. More importantly, once your Promise resolves (that is: It returns the data it promised to return earlier), you can use this result in chained code.
 
-There are two ways to use Promises. The first one is by chaining a function that will be executed when the Promise resolves with the data it promised. The example below showcases a use case where we do a request to an api, then use the result of that api call. `getPolarBears` is the function that _promises_ to return a list of polar bears. The Promise resolves when the `resolve` function is called. When the Promise resolves, the function you passed to the chained `.then(..)` will be called with the result.
+There are two ways to use Promises. The first one is by chaining a function that will be executed when the Promise resolves with the data it promised. The example below showcases a use case where we do a request to an API, then use the result of that API call. `getPolarBears` is the function that _promises_ to return a list of polar bears. The Promise resolves when the `resolve` function is called. When the Promise resolves, the function you passed to the chained `.then(..)` will be called with the result.
 
 ```
 const baseUrl = "http://example.com";
