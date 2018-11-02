@@ -81,44 +81,7 @@ _Waiting for response_
 # JavaScript   
 
 **What is a Promise and how do you use it?**  
-
-A promise in simplest terms is just that. You are calling a function that does dome asyncronous work and and in return it promises to return you a response when it's done. 
-
-A common usecase is this
-1. I make a request to a server for userData
-2. I need to wait for the server.
-3. Once the server returns then the function I called will give me back the response. 
-
-Usage looks like this
-```javascript
-myClass.getUserData(3).then(response => {
-    // Do something with a success
-}).catch(error => {
-    // Do something with failure
-})
-```
-
-In normal function calls you might expect something to happen right away. But here I'm calling `getUserData` and passing it the user `id` of `3`. I don't know when this will come back so I attach `.then` to the end of the method. `.then` is called when a successful response is returned. `.catch` is called if the promise failed. 
-
-It is important to understand that you can't attach `.then` to the end of any function. It has to be a function that returns a Promise. A good example of a function that does this is [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch).
-
-You can also make your own functions for asyncronous behaviour that returns a custom Promise. 
-
-```javascript
-const getData = new Promise((resolve, reject) => {
-    // Do some asyncronous stuff
-
-    // If all goes well
-    resolve(/* data to return */);
-
-    // If we had a bad time
-    reject(/* Error message and info */)
-})
-```
-
-If you ever get into a situation where you're nesting promised please first take a look a [Promise.all](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/all). This is a good way to chain promises.
-
-
+_Waiting for response_ 
 
 **Is it fine to learn JavaScript as your first language for web development or is it better to start with HTML and CSS**   
 
