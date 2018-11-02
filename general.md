@@ -6,4 +6,8 @@
 Some other alternatives are [Atom](https://atom.io), [Sublime Text](https://www.sublimetext.com), [WebStorm](https://www.jetbrains.com/webstorm/).
 
 If you prefer to quickly try a new progrmaming language, you might like this list of [Awesome Online IDEs](https://ide.ceriously.com).
- 
+
+<br/><br/>
+
+**As a Java backend developer that would like to do more front-end, do you need a strong level in CSS to become a front end developer?**  
+ _Waiting for response_
