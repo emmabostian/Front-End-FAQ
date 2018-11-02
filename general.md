@@ -23,3 +23,19 @@ Here are some recent articles and videos about this topic:
 -   [The Best Code Editors Available 2018](https://wplook.com/13-best-code-editors-available-2018/)
 -   [A Collection of the Best Code Editors](https://www.keycdn.com/blog/best-text-editors)
 -   [Video: IDE vs Text Editors - 2018](https://www.youtube.com/watch?v=S_c4WBv4TMU)
+
+
+<br/><br/>
+
+**As a Java backend developer that would like to do more front-end, do you need a strong level in CSS to become a front end developer?**  
+ _Waiting for response_
+
+<br/><br/>
+
+**What is the best place to buy a domain name?**
+_Waiting for response_
+
+<br/><br/>
+
+**How do I host a website on GitHub?**   
+_Waiting for response_
