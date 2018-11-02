@@ -12,7 +12,7 @@ Send me a DM over on [Twitter](https://twitter.com/EmmaWedekind)! <br /> <br />
 
 ## How Do I Answer A Question?
 
-Feel free to open a PR on this repo! <br /> <br />
+Fork & Clone this repo. Once you've made your edits, feel free to open a PR! <br /> <br />
 
 ## How Is This Different Than Stack Overflow?
 
