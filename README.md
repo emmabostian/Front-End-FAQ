@@ -81,10 +81,50 @@ _Waiting for response_
 # JavaScript   
 
 **What is a Promise and how do you use it?**  
-_Waiting for response_   
+
+A promise in simplest terms is just that. You are calling a function that does dome asyncronous work and and in return it promises to return you a response when it's done. 
+
+A common usecase is this
+1. I make a request to a server for userData
+2. I need to wait for the server.
+3. Once the server returns then the function I called will give me back the response. 
+
+Usage looks like this
+```javascript
+myClass.getUserData(3).then(response => {
+    // Do something with a success
+}).catch(error => {
+    // Do something with failure
+})
+```
+
+In normal function calls you might expect something to happen right away. But here I'm calling `getUserData` and passing it the user `id` of `3`. I don't know when this will come back so I attach `.then` to the end of the method. `.then` is called when a successful response is returned. `.catch` is called if the promise failed. 
+
+It is important to understand that you can't attach `.then` to the end of any function. It has to be a function that returns a Promise. A good example of a function that does this is [Fetch](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch).
+
+You can also make your own functions for asyncronous behaviour that returns a custom Promise. 
+
+```javascript
+const getData = new Promise((resolve, reject) => {
+    // Do some asyncronous stuff
+
+    // If all goes well
+    resolve(/* data to return */);
+
+    // If we had a bad time
+    reject(/* Error message and info */)
+})
+```
+
+If you ever get into a situation where you're nesting promised please first take a look a [Promise.all](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/all). This is a good way to chain promises.
+
+
 
 **Is it fine to learn JavaScript as your first language for web development or is it better to start with HTML and CSS**   
-_Waiting for response_   
+
+Definitely learn HTML and CSS first. Many take HTML and mostly CSS understanding for granted. But believe me when I say that without a clear understanding of the DOM and CSS you will really struggle as a Web Developer. I have seen bugs get re-opened over and over and over again for the simplest of CSS mistakes. Not being able to cleanly and effectively assemble your layout structure with a stable set of styles can easily turn a 1-day task into a 2-week nightmare and have you wishing you never picked up this career. 
+
+The big misnomer is that many individuals learn things just enough to be able to Google if they get stuck. CSS isn't one of those things. You can't Google your way out of a CSS bug. Without understanding it, believe me, you can't. The only way is to understand how the cascade works. Once you understand CSS fully then move on to JavaScript. 
 
 
 <br/><br/><br/>
@@ -103,7 +143,7 @@ _Waiting for response_
 From the excellent [images.guide](https://images.guide/). <br/><br/>
 
 **What is the best format for performant images? PNG? JPG? SVG?**  
-> It's between SVG and JPG. It really depends on how much detail and color variation the image has. If it's a simple vector graphic (_Something like a logo or icon_) you should safely be able to go with SVG. This can be under 1k - 5k in size. If the image is more like a photo with a considerable amount of detail and colors I would go with JPG. You should only feel compelled to reach for PNG if the file has transparency.
+It's between SVG and JPG. It really depends on how much detail and color variation the image has. If it's a simple vector graphic (_Something like a logo or icon_) you should safely be able to go with SVG. This can be under 1k - 5k in size. If the image is more like a photo with a considerable amount of detail and colors I would go with JPG. You should only feel compelled to reach for PNG if the file has transparency.
 
 <br/><br/><br/>
 
