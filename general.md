@@ -1,23 +1,40 @@
  # General
- **Which IDE or code editor should I use?**
- 
+
+<details>
+<summary>Which IDE or code editor should I use?</summary>
+
 [VS Code](https://code.visualstudio.com) is a great choice and provides a lot of web friendly features out of the box, along with many 3rd party extensions to customize it just the way you like.
 
 Some other alternatives are [Atom](https://atom.io), [Sublime Text](https://www.sublimetext.com), [WebStorm](https://www.jetbrains.com/webstorm/).
 
 If you prefer to quickly try a new progrmaming language, you might like this list of [Awesome Online IDEs](https://ide.ceriously.com).
 
-<br/><br/>
+</details>
 
-**As a Java backend developer that would like to do more front-end, do you need a strong level in CSS to become a front end developer?**  
- _Waiting for response_
+----
 
-<br/><br/>
+<details>
+<summary>As a Java backend developer that would like to do more front-end, do you need a strong level in CSS to become a front end developer?</summary>
 
-**What is the best place to buy a domain name?**
+
+</details>
+
 _Waiting for response_
 
-<br/><br/>
+----
 
-**How do I host a website on GitHub?**   
+<details>
+<summary>What is the best place to buy a domain name?</summary>
+
+</details>
+
+_Waiting for response_
+
+----
+
+<details>
+<summary>How do I host a website on GitHub?</summary>
+
+</details>
+
 _Waiting for response_
