@@ -3,7 +3,7 @@
 <details>
 <summary>What is the difference between absolute and fixed positioning?</summary>
 
-_Absolute positioning allows you to place any page element exactly where you want it._ You use the positioning attributes top, left, bottom. and right to set the location. Ex. `position: absolute; top: 40px; left: 40px;` (These values are relative to the parent element). When you absolute position an element you treat it as an independent element on the page, which means it  will not be affected by other elements and it won't affect other elements.
+_Absolute positioning allows you to place any page element exactly where you want it._ You use the positioning attributes `top`, `left`, `bottom`, and `right` to set the location. Eg. `position: absolute; top: 40px; left: 40px;`. These values are relative to the closest parent element that is **not** set to `position: static` (the default value for the `position` property). When you absolute position an element you treat it as an independent element on the page, which means it  will not be affected by other elements and it won't affect other elements.
 
 _A fixed position element is positioned relative to the viewport, or the browser window itself._ This is often used for navigation or sidebars because the viewport does not change at scrolling. So your fixed element will remain at the exact position you set it at. Ex. `position: fixed; top: 80px; left: 10px;`  
 
