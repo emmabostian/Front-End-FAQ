@@ -8,3 +8,25 @@ Apart from HTML, CSS and a good level of comfort with Javascript, learning react
 You can start with the official docs' [getting started](https://reactjs.org/docs/getting-started.html) page which are very beginner friendly.
 
 </details>
+
+----
+
+<details>
+<summary>Why do we need hooks?</summary>
+
+If you know the answer to this question, please submit a pull request with the answer.
+
+</details>
+
+_Waiting for response_
+
+----
+
+<details>
+<summary>Why can’t we use variables/functions directly inside a function component?</summary>
+
+If you know the answer to this question, please submit a pull request with the answer.
+
+</details>
+
+_Waiting for response_
