@@ -13,5 +13,5 @@ _Waitin for response_
 
 <br/><br/>
 
-** Why can’t we use variables/functions directly inside a function component?**   
+**Why can’t we use variables/functions directly inside a function component?**   
 _Waiting for response_
