@@ -14,7 +14,7 @@ An IDE is an essential part of any developers tool kit if you work in front end 
 
 Once you've been programming for a bit you realize that the minimum requirements for front end code editors is that they assist you with a few essential functions such as syntax highlighting, suggestions to an extent and indentation, some may also have an integrated terminal, but then if you start trying out a few you start to develop a preference.
 
-Someone may personally use a certain editor such as Atom when first learning then perhaps switch to Sublime since a professor or a tutorial instructor used it and it was easier to following along with the same editor. Keep in mind also most of these editors will offer the ability to add extensions and these can make programming much easier. If you search the web you will find tons of opinions on the best editors and the most popular extensions. The best part about extensions is that they are usually available to use, no matter the editor you have.
+Someone may personally use a certain editor when first learning then perhaps switch to another since a professor or a tutorial instructor used it and it was easier to following along with the same editor. Keep in mind also most of these editors will offer the ability to add extensions and these can make programming much easier. If you search the web you will find tons of opinions on the best editors and the most popular extensions. The best part about extensions is that they are usually available to use, no matter the editor you have.
 
 Here are some recent articles and videos about this topic:
 
