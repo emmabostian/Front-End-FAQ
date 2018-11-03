@@ -14,6 +14,8 @@ _A fixed position element is positioned relative to the viewport, or the browser
 <details>
 <summary>What is the best/most performant way to include media queries? Is it better to put them all in one CSS file or split them up into different CSS files per component or page?</summary>
 
+If you know the answer to this question, please submit a pull request with the answer.
+
 </details>
 
 _Waiting for response_
