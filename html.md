@@ -1,7 +1,7 @@
 # HTML
 
 <details>
-<summary>What are `<div>` and `<span>`?  Why would you use them?</summary>
+<summary>What are <div> and <span>?  Why would you use them?</summary>
 
 All HTML documents have two types of element - block and inline. A `<p>`, or paragraph is an example of a block element; `<strong>` is an example of an inline element. These elements are treated differently when a browser displays your page:
 
