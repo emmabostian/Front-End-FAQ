@@ -1,14 +1,15 @@
 # General
 
-**What IDE should I use?**
+<details>
+<summary>What IDE should I use?</summary>
 
 > An integrated development environment (IDE) is a software suite that consolidates basic tools required to write and test software. Most Front End Devs work with code editors. Some may say code editors are not technically IDE, while most use the terms interchangeably.
 
 An IDE is an essential part of any developers tool kit if you work in front end usually a great code editor is one that features a well-designed, super efficient, and ultra speedy user interface. There are several that do this well, there are also folks who think it's super important but it doesn't really matter. Ultimately it is a tool and none is necessarily better than another or "Best" you just choose the one that will make you a more efficient coder. The one you use is a matter of preference however here is a short list of the most popular.
 
--   [Visual Studio Code](https://notepad-plus-plus.org/download/v6.9.2.html)
--   [Notepad++](https://notepad-plus-plus.org/download/v6.9.2.html)
--   [Sublime Text](https://notepad-plus-plus.org/download/v6.9.2.html)
+-   [Visual Studio Code](https://code.visualstudio.com/)
+-   [Notepad++](https://notepad-plus-plus.org/)
+-   [Sublime Text](https://www.sublimetext.com/)
 -   [Atom](https://atom.io/)
 -   [Brackets](http://brackets.io/)
 
@@ -25,17 +26,37 @@ Here are some recent articles and videos about this topic:
 -   [Video: IDE vs Text Editors - 2018](https://www.youtube.com/watch?v=S_c4WBv4TMU)
 
 
-<br/><br/>
+</details>
 
-**As a Java backend developer that would like to do more front-end, do you need a strong level in CSS to become a front end developer?**  
- _Waiting for response_
+----
 
-<br/><br/>
+<details>
+<summary>As a Java backend developer that would like to do more front-end, do you need a strong level in CSS to become a front end developer?</summary>
 
-**What is the best place to buy a domain name?**
+If you know the answer to this question, please submit a pull request with the answer.
+
+</details>
+
 _Waiting for response_
 
-<br/><br/>
+----
 
-**How do I host a website on GitHub?**   
+<details>
+<summary>What is the best place to buy a domain name?</summary>
+
+If you know the answer to this question, please submit a pull request with the answer.
+
+</details>
+
+_Waiting for response_
+
+----
+
+<details>
+<summary>How do I host a website on GitHub?</summary>
+
+If you know the answer to this question, please submit a pull request with the answer.
+
+</details>
+
 _Waiting for response_
