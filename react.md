@@ -30,3 +30,15 @@ If you know the answer to this question, please submit a pull request with the a
 </details>
 
 _Waiting for response_
+
+
+----
+
+<details>
+<summary>What are React render props?</summary>
+
+If you know the answer to this question, please submit a pull request with the answer.
+
+</details>
+
+_Waiting for response_
