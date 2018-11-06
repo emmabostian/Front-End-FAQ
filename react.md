@@ -12,7 +12,6 @@ You can start with the official docs' [getting started](https://reactjs.org/docs
 ----
 
 <details>
-
 <summary>Why do we need hooks?</summary>
 
 Hooks are a way of letting the developer use State or other React Features without necessarily writing class components (sounds cool, right?!). Previously React required that to create state or set State of a component on needs to declare a class component where the state could be initialized and then would be later used in the class component. Using react hooks one can easily initialize state or any lifeclycle methods within functional components. An example would be setting initial state of counter in a functional component and incrementing the counter as a button is clicked. 
@@ -38,8 +37,22 @@ From the above the `useState` is the hook which we use to initialize our state, 
 
 </details>
 
+----
+
 <details>
 <summary>Why can’t we use variables/functions directly inside a function component?</summary>
+
+If you know the answer to this question, please submit a pull request with the answer.
+
+</details>
+
+_Waiting for response_
+
+
+----
+
+<details>
+<summary>What are React render props?</summary>
 
 If you know the answer to this question, please submit a pull request with the answer.
 
