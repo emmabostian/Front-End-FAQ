@@ -60,3 +60,15 @@ If you know the answer to this question, please submit a pull request with the a
 </details>
 
 _Waiting for response_
+
+
+----
+
+<details>
+<summary>How do you prioritize what you want/need to learn about new techniques and technology?</summary>
+  
+If you know the answer to this question, please submit a pull request with the answer.
+
+</details>
+
+_Waiting for response_
