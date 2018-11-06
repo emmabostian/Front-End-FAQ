@@ -38,4 +38,6 @@ Front-End FAQ will be the one place you can go to for all your Front-end questio
 
 [React](react.md)
 
+[Redux](redux.md)
+
 [Testing](testing.md)
