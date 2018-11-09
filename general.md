@@ -55,11 +55,15 @@ _Waiting for response_
 <details>
 <summary>How do I host a website on GitHub?</summary>
 
-If you know the answer to this question, please submit a pull request with the answer.
+You can use GitHub pages. 
+   1. Go to your repo, and select the Settings tab.
+   2. Inside settings, go to the GitHub pages section.
+   3. Choose the source code for your page from the Source options and click Save.
+   4. You'll see a message in GitHub pages section with your sites URL. 
 
 </details>
 
-_Waiting for response_
+
 
 
 ----
