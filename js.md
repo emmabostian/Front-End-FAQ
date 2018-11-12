@@ -53,3 +53,40 @@ Learn HTML and CSS first. Many take HTML and CSS understanding for granted. But 
 The big misnomer is that many individuals learn things just enough to be able to Google if they get stuck. CSS isn't one of those things. You can't Google your way out of a CSS bug. The only way is to understand how the cascade works. Once you fully understand CSS then move on to JavaScript.
 
 </details>
+
+
+----
+
+<details>
+<summary>Which JavaScript framework should I learn? Angular, Vue, React?</summary>
+  
+If you know the answer to this question, please submit a pull request with the answer.
+
+</details>
+
+_Waiting for response_
+
+
+----
+
+<details>
+<summary>What's the difference between a library and a framework?</summary>
+  
+If you know the answer to this question, please submit a pull request with the answer.
+
+</details>
+
+_Waiting for response_
+
+
+----
+
+<details>
+<summary>What is async/await?</summary>
+  
+If you know the answer to this question, please submit a pull request with the answer.
+
+</details>
+
+_Waiting for response_
+
