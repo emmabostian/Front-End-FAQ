@@ -84,9 +84,38 @@ _Waiting for response_
 <details>
 <summary>What is async/await?</summary>
   
-If you know the answer to this question, please submit a pull request with the answer.
+  Async and await are 2 keywords in JS (not only, as they are present also in other languages like C#) which changed the game with callbacks etc.
+  
+  In reality, `async function` is wrapping the function into the `Promise` (read about Promises above).
+  
+  When `async function` returns the value it really makes `resolve(returnedValue)` and when the `async function` throws an error it really makes `reject(error)`.
+   
+  What it really means? Consider 2 way of doing some stuff.
+  ```js
+function resultWithPromise () {
+  return new Promise((resolve, reject) => {
+    resolve('Result');
+  });
+  
+}
 
+async function resultWithAsync () {
+    return 'Result';
+}
+
+async function checkIt() {
+    console.log(await resultWithAsync()); // -> Result
+    console.log(await resultWithPromise()); // -> Result
+  
+    resultWithPromise().then(result => console.log(result)); // -> Result
+    resultWithAsync().then(result => console.log(result)); // -> Result
+}
+```
+
+As you can see above - as the result of async returning the promise and await resolving the promise, you can `await` on `Promise` and do `.then` on `async function`.
+
+Generally it is considered  that using `async` and `await` makes code much cleaner because you are not nesting with `.then` and `.catch`.
+
+One last thing about `.catch`. Using `await funcReturningPromise` may throw an error if promise will be rejected, so to prevent runtime errors you can wrap it in `try {} catch (e) {}`.
 </details>
-
-_Waiting for response_
 
