@@ -60,11 +60,11 @@ The big misnomer is that many individuals learn things just enough to be able to
 <details>
 <summary>Which JavaScript framework should I learn? Angular, Vue, React?</summary>
   
-If you know the answer to this question, please submit a pull request with the answer.
+All three frameworks are front end frameworks that help developers make single page applications(SPA's) so it's less a matter of which framework should you learn and more a matter of which framework is best suited to your liking and understanding. There are pros and cons to all three and determining which one is better will vary from person to person. Ultimately all three are being widely used and there is no right or wrong choice for which framework to learn.  
+
+For some general guidance - Vue is the newest of the three frameworks and is gaining popularity for its ease of use and scalability. Angular was developed by Google and is the oldest of the three and therefore has the largest community since its been around the longest. React was developed by Facebook and currently seems to have the most buzz and popularity. Angular has a bit more structure to it where as React, although still a framework, has some behavior built in that makes it act somewhat like a library (see below for the difference between a library and a framework). 
 
 </details>
-
-_Waiting for response_
 
 
 ----
@@ -72,11 +72,13 @@ _Waiting for response_
 <details>
 <summary>What's the difference between a library and a framework?</summary>
   
-If you know the answer to this question, please submit a pull request with the answer.
+A library acts as a "toolbox" with built in resources (e.g. functions, methods, markup templates). There is flexibility in using a library in which the developer can install a library, and pick and choose which resources to use. Using a library helps a developer faciltite processes in their code without having to type everthing from scratch. This is especially helpful for processes that are commonly needed and used but do not pertain to the core functionality of the application/software that a developer is building. Just like any tool, if used in the right context a library can help a developer save time and focus more on the code that is pertinent to the end goal/final product.   
+
+A framework is more rigid and structured in comparsion to a library. Frameworks act more as a governing entity with a set of rules and guidelines that a devopler must follow in order to use the framework and its built in functionality. Similar to a library, a framework helps faciltate certain processes to build an application. However, using a framework effectively requires a greater understanding of how the ecosystem of the framework behaves with all its built-in properites and methods that it comes with. One thing to keep mind is a developer can use certain libraries within a framework. 
+
+When trying to understand the difference between a library and a framework, a helpful analogy is to think of building a house. If you had to build a house on your own you could either build it from scratch with the help of using various tools (i.e. libraries) or you could have a pre-fabricated structure (i.e framework) in which the outer structure, interior wall framing and piping are already constructed in place and it's up to you to then build out the rest of the home within the confines of what is already built (i.e. working within the "ecosystem" of the home). You could of course use some tools (libraries) when working in the pre-fabricated home (framework) but only certain tools will work. 
 
 </details>
-
-_Waiting for response_
 
 
 ----
