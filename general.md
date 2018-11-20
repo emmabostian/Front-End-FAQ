@@ -76,3 +76,27 @@ If you know the answer to this question, please submit a pull request with the a
 </details>
 
 _Waiting for response_
+
+
+----
+
+<details>
+<summary>Who are some of the top influencers in Front-end Development?</summary>
+  
+If you know the answer to this question, please submit a pull request with the answer.
+
+</details>
+
+_Waiting for response_
+
+
+----
+
+<details>
+<summary>What books should I read to learn JavaScript?</summary>
+  
+If you know the answer to this question, please submit a pull request with the answer.
+
+</details>
+
+_Waiting for response_
