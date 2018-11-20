@@ -21,9 +21,6 @@ In spite of this, you can also choose another backend framework. Other popular f
 
 </details>
 
-_Waiting for response_
-
-
 ----
 
 <details>
