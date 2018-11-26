@@ -33,11 +33,17 @@ Here are some recent articles and videos about this topic:
 <details>
 <summary>As a Java backend developer that would like to do more front-end, do you need a strong level in CSS to become a front end developer?</summary>
 
-If you know the answer to this question, please submit a pull request with the answer.
+As a frontend developer you would create the part of the website the user interacts with. You create an experience that follows a design, and shows data that usually comes from an api. In some cases the frontend also sends back structured data back to this api.
+
+Styling a page or component is only part of the job of a frontend developer. A frontend developer also must keep in mind user experience (UX) and accessibility, must create a maintainable codebase where parts of the code can be re-used, and must create a usable interface between the frontend and the backend.
+
+Without any knowledge of CSS you can still set up a basic websites with full frameworks such as [Bootstrap](https://getbootstrap.com/), who hide the nitty gritty details of styling behind predesigned components, with some basic styling options (e.g. centering) in the form of classes. With basic knowledge of CSS you can also use utility first frameworks such as [Tailwind](https://tailwindcss.com/docs/what-is-tailwind/), who hide common use-cases behind easy to use classes, while helping you to keep a consistent layout across devices and browsers.
+
+How much CSS you actually need depends on the task you want to accomplish. If you create Wordpress templates, you likely will spend a lot of time on styling, but a lot of styling will be basic and a small part will consist of figuring out how to override some plugins styling without breaking the page. If you create frontend applications that consume backend apis, you will spend much more time on frontend logic rather than the visual details, will likely be able to use frameworks for the most part, but may need to create custom components from scratch. If your job is [to create iphones out of pure CSS](https://codepen.io/_fbrz/pen/vlrnd) you probably need a lot more experience with CSS.
+
+As a last note I want to add that there is nothing wrong with leaning on frameworks to create presentable applications. You can use the developer console to learn how frameworks manage to accomplish certain styling. There are also plenty of examples out on the internet for problems people encountered when trying to accomplish certain tasks, with solutions you can try out yourself in case you get stuck.
 
 </details>
-
-_Waiting for response_
 
 ----
 
