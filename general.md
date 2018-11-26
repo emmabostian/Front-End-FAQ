@@ -35,7 +35,7 @@ Here are some recent articles and videos about this topic:
 
 As a frontend developer you would create the part of the website the user interacts with. You create an experience that follows a design, and shows data that usually comes from an api. In some cases the frontend also sends back structured data back to this api.
 
-Styling a page or component is only part of the job of a frontend developer. A frontend developer also must keep in mind user experience (UX) and accessability, must create a maintainable codebase where parts of the code can be re-used, and must create a usable interface between the frontend and the backend.
+Styling a page or component is only part of the job of a frontend developer. A frontend developer also must keep in mind user experience (UX) and accessibility, must create a maintainable codebase where parts of the code can be re-used, and must create a usable interface between the frontend and the backend.
 
 Without any knowledge of CSS you can still set up a basic websites with full frameworks such as [Bootstrap](https://getbootstrap.com/), who hide the nitty gritty details of styling behind predesigned components, with some basic styling options (e.g. centering) in the form of classes. With basic knowledge of CSS you can also use utility first frameworks such as [Tailwind](https://tailwindcss.com/docs/what-is-tailwind/), who hide common use-cases behind easy to use classes, while helping you to keep a consistent layout across devices and browsers.
 
