@@ -101,8 +101,6 @@ _Waiting for response_
 <details>
 <summary>What books should I read to learn JavaScript?</summary>
   
-If you know the answer to this question, please submit a pull request with the answer.
+-   The [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) series
 
 </details>
-
-_Waiting for response_
