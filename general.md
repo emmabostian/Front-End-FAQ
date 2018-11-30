@@ -50,7 +50,7 @@ As a last note I want to add that there is nothing wrong with leaning on framewo
 <details>
 <summary>What is the best place to buy a domain name?</summary>
 
-If you know the answer to this question, please submit a pull request with the answer.
+[Cloudflare](https://www.cloudflare.com/products/registrar/) sells domains at cost.
 
 </details>
 
@@ -61,11 +61,11 @@ _Waiting for response_
 <details>
 <summary>How do I host a website on GitHub?</summary>
 
-You can use GitHub pages. 
+You can use GitHub pages.
    1. Go to your repo, and select the Settings tab.
    2. Inside settings, go to the GitHub pages section.
    3. Choose the source code for your page from the Source options and click Save.
-   4. You'll see a message in GitHub pages section with your sites URL. 
+   4. You'll see a message in GitHub pages section with your sites URL.
 
 </details>
 
@@ -76,7 +76,7 @@ You can use GitHub pages.
 
 <details>
 <summary>How do you prioritize what you want/need to learn about new techniques and technology?</summary>
-  
+
 If you know the answer to this question, please submit a pull request with the answer.
 
 </details>
@@ -88,7 +88,7 @@ _Waiting for response_
 
 <details>
 <summary>Who are some of the top influencers in Front-end Development?</summary>
-  
+
 If you know the answer to this question, please submit a pull request with the answer.
 
 </details>
@@ -100,7 +100,7 @@ _Waiting for response_
 
 <details>
 <summary>What books should I read to learn JavaScript?</summary>
-  
+
 If you know the answer to this question, please submit a pull request with the answer.
 
 </details>
