@@ -101,7 +101,13 @@ _Waiting for response_
 <details>
 <summary>What books should I read to learn JavaScript?</summary>
   
-If you know the answer to this question, please submit a pull request with the answer.
+**Beginner**
+
+JavaScript is often the first programming language that many aspiring developers come across concepts like variables, functions, and other logic operations. This can make learning it a harrowing experience for many – especially if you're teaching yourself and haven't found a mentor. The key is finding a book that breaks down those concepts in a clear and easy-to-digest way.
+
+One of the best books that does this is [Jon Duckett's JavaScript & jQuery](http://javascriptbook.com/). It does a phenomenal job at breaking down foundational concepts, from basics like variables and functions, to more complicated topics like object orientated programming.
+
+Crucially, it touches on both vanilla JavaScript and jQuery and, as such, is a great way of helping those who know a little jQuery to understand how achieve the same result vanilla JavaScript and grow their knowledge of the language.
 
 </details>
 
