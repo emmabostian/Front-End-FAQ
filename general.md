@@ -100,8 +100,14 @@ _Waiting for response_
 
 <details>
 <summary>What books should I read to learn JavaScript?</summary>
-  
-If you know the answer to this question, please submit a pull request with the answer.
+
+You can read those books
+   + [You Don't Know JS (book series)](https://www.kickstarter.com/projects/getify/you-dont-know-js-book-series)
+   + [Eloquent Javascript](https://eloquentjavascript.net/)
+   + [JavaScript: The Definitive Guide: Activate Your Web Pages (Definitive Guides)](http://www.stilson.net/documentation/javascript.pdf)
+   + [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do)
+   + [Professional JavaScript for Web Developers, 3rd Edition](http://shop.oreilly.com/product/9781118026694.do)
+
 
 </details>
 
