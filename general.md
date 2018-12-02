@@ -89,12 +89,13 @@ _Waiting for response_
 <details>
 <summary>Who are some of the top influencers in Front-end Development?</summary>
   
-If you know the answer to this question, please submit a pull request with the answer.
+1. Dan Abramov (Twitter @dan_abramov)
+2. 
+3.
+4.
+5. 
 
 </details>
-
-_Waiting for response_
-
 
 ----
 
