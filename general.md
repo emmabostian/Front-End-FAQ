@@ -97,7 +97,7 @@ _Waiting for response_
 
 
 <details>
-<summary>Who are some of the top influencers in Front-end Development?</summary>
+<summary>What are the best books for learning development?</summary>
 
 -   [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
 -   [Secrets Of The JS Ninja](https://www.goodreads.com/book/show/4373732-secrets-of-the-javascript-ninja)
