@@ -40,6 +40,8 @@ Front-End FAQ will be the one place you can go to for all your Front-end questio
 
 [Redux](redux.md)
 
+[TypeScript](typescript.md)
+
 [Observables](observables.md)
 
 [Testing](testing.md)
