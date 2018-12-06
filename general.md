@@ -95,11 +95,14 @@ _Waiting for response_
 
 ----
 
+
 <details>
-<summary>What books should I read to learn JavaScript?</summary>
--  The [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) series <br />
--  Secrets of the JavaScript Ninja](https://www.goodreads.com/book/show/4373732-secrets-of-the-javascript-ninja) by John Resig <br />
--  [Exploring ES2016 and ES2017](https://www.goodreads.com/book/show/32727150-exploring-es2016-and-es2017) by Axel Rauschmayer
+<summary>Who are some of the top influencers in Front-end Development?</summary>
+
+-   [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+-   [Secrets Of The JS Ninja](https://www.goodreads.com/book/show/4373732-secrets-of-the-javascript-ninja)
+-   [Exploring ES2016 and ES2017](https://www.goodreads.com/book/show/32727150-exploring-es2016-and-es2017)
 </details>
+
 
 ----
