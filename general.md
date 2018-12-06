@@ -97,12 +97,14 @@ _Waiting for response_
 
 
 <details>
-<summary>What are the best books for learning development?</summary>
+<summary>What books should I read to learn JavaScript?</summary>
 
--   [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
--   [Secrets Of The JS Ninja](https://www.goodreads.com/book/show/4373732-secrets-of-the-javascript-ninja)
--   [Exploring ES2016 and ES2017](https://www.goodreads.com/book/show/32727150-exploring-es2016-and-es2017)
+You can read those books
+   + [You Don't Know JS (book series)](https://www.kickstarter.com/projects/getify/you-dont-know-js-book-series)
+   + [Eloquent Javascript](https://eloquentjavascript.net/)
+   + [JavaScript: The Definitive Guide: Activate Your Web Pages (Definitive Guides)](http://www.stilson.net/documentation/javascript.pdf)
+   + [JavaScript: The Good Parts](http://shop.oreilly.com/product/9780596517748.do)
+   + [Professional JavaScript for Web Developers, 3rd Edition](http://shop.oreilly.com/product/9781118026694.do)
+   + [Exploring ES2016 and ES2017](https://www.goodreads.com/book/show/32727150-exploring-es2016-and-es2017)
+   + [Secrets Of The JS Ninja](https://www.goodreads.com/book/show/4373732-secrets-of-the-javascript-ninja)
 </details>
-
-
-----
