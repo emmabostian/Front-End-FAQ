@@ -97,7 +97,9 @@ _Waiting for response_
 
 <details>
 <summary>What books should I read to learn JavaScript?</summary>
-- The [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) series
-- [Secrets of the JavaScript Ninja](https://www.goodreads.com/book/show/4373732-secrets-of-the-javascript-ninja) by John Resig
-- [Exploring ES2016 and ES2017](https://www.goodreads.com/book/show/32727150-exploring-es2016-and-es2017) by Axel Rauschmayer
+-  The [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) series <br />
+-  Secrets of the JavaScript Ninja](https://www.goodreads.com/book/show/4373732-secrets-of-the-javascript-ninja) by John Resig <br />
+-  [Exploring ES2016 and ES2017](https://www.goodreads.com/book/show/32727150-exploring-es2016-and-es2017) by Axel Rauschmayer
 </details>
+
+----
