@@ -23,7 +23,7 @@ _Waiting for response_
 ----
 
 <details>
-<summary> What are some of the frameworks/resources one use and leearn how to write front-end integration tests </summary>
+<summary> What are some of the frameworks/resources one can use to learn how to write front-end integration tests </summary>
   
 If you know the answer to this question, please submit a pull request with the answer.
 
