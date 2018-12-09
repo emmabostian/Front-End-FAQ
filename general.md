@@ -76,13 +76,10 @@ You can use GitHub pages.
 
 <details>
 <summary>How do you prioritize what you want/need to learn about new techniques and technology?</summary>
-
-If you know the answer to this question, please submit a pull request with the answer.
+  
+ New technology, techniques and frameworks will always come along especially if you are a JavaScript developer. One way to prioritize is to decide whether you really need the technology, or you are jumping ship because of the hype that the new technique, technology or framework promises. If you need the technology then go to the specific thing or the basic concepts that you want to learn about the technology rather than learning every single aspect/codebase of the technology. If it is in terms of implementation read the particular bit you need to implement and work with that. Jumping from technology to technology will throw you off course and you might end up being a jack of all trades and a master of none. Learning is incremental and you learn as you go not learn first then implement, it rarely or never works. Lastly it is never about the technology, technique or framework it is about how good you as the developer do the implementation. 
 
 </details>
-
-_Waiting for response_
-
 
 ----
 
