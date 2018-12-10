@@ -7,8 +7,8 @@ All of these pipe operators are designed to modify the result of the pipe or the
 different ways.
 
 The `map()` operator is much like `Array.prototype.map()` that allows you to map an emitted item into something else. 
-`switchMap()` and `mergeMap` in contrast should return a new observable for each item that is emitted. These will 
-replace the input observable. The differ in the following way: When the input observable emits a new item,
+`switchMap()` and `mergeMap()` in contrast should return a new observable for each item that is emitted. These will 
+replace the input observable. They differ in the following way: When the input observable emits a new item,
 `switchMap()` will unsubscribe and discard (and therefore cancel) a previously mapped observable and replace it with the new one returned by
 the function passed to `switchMap()`, `mergeMap()` in contrast will subscribe to the observable returned by the function 
 passed to it, and emit new items from this new observable while continuing to emit items from all previous observables.
