@@ -1,4 +1,4 @@
-# General
+# Staying up to date
 
 <details>
 <summary>JavaScript and FrontEnd</summary>
@@ -11,7 +11,6 @@
 - Michael Jackson([@mjackson](https://twitter.com/mjackson)) - not that one :). Co-Author of popular `react-router` and owner of [ReactTraining](https://reacttraining.com/). Great guy in tech world, especially he focuses(as I understood) on React. Being co-creator of react-router his guides are really well written. He also provides great trainings and workshops at ReactTraining. Also, he really cares about future of web. Just read this thread.
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Web components are a complete waste of time and effort at this point. The champions of web components are too invested to admit it, but there are so many problems with the current spec. They haven&#39;t learned anything from the current state of the art of building UI for the web.</p>&mdash; MICHAEL JACKSON (@mjackson) <a href="https://twitter.com/mjackson/status/1050594839127973896?ref_src=twsrc%5Etfw">October 12, 2018</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 - Kyle Simpson([@getify](https://twitter.com/getify)) - when we talk about JavaScript it is unfair to not include Kyle Simpson, also knows as GETIFY. My foundation of JavaScript strengthened after reading his [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) book series. I highly recommend to all new(not only beginners) JS devs. You better go to his twitter account, learn about him and read 2 books mentioned in his profile.
