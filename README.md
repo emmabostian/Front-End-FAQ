@@ -46,4 +46,4 @@ Front-End FAQ will be the one place you can go to for all your Front-end questio
 
 [Testing](testing.md)
 
-[Staying up to date](to-follow.md)
+[Staying up to date](staying-up-to-date.md)
