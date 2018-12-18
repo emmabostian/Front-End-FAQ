@@ -45,3 +45,5 @@ Front-End FAQ will be the one place you can go to for all your Front-end questio
 [Observables](observables.md)
 
 [Testing](testing.md)
+
+[Staying up to date](staying-up-to-date.md)
