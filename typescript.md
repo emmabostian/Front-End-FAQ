@@ -1,4 +1,4 @@
-# TypeScript]
+# TypeScript
 
 <details>
 <summary>What advantages are there to using TypeScript?</summary>
