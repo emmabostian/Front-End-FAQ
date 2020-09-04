@@ -20,7 +20,7 @@ Redux is a library which allows us to keep the state of our app in some central 
 
 So in short, no, Hooks in their present form will not replace Redux. They have completely opposite aims. In fact, Hooks and Redux might work very well together, rather than against each other. We could use a hook to connect a component to a store when it mounts. That component might manage its own state with the `useState` hook, and also dispatch Redux actions from the connected store. Let's imagine a search bar that keeps its own text value in state, and dispatches that text to the Redux store when a button is clicked:
 
-```js
+```jsx
 // NOT REAL CODE... YET!
 
 import React, { useState } from "react";
