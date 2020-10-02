@@ -8,7 +8,7 @@ The premise is simple: Ask the questions you've always had about Front-End Devel
 
 ## How Do I Ask A Question?
 
-Send me a DM over on [Twitter](https://twitter.com/EmmaWedekind)! <br /> <br />
+Send me a DM over on [Twitter](https://twitter.com/EmmaBostian)! <br /> <br />
 
 ## How Do I Answer A Question?
 
