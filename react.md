@@ -9,12 +9,12 @@ You can start with the official docs' [getting started](https://reactjs.org/docs
 
 </details>
 
-----
+---
 
 <details>
 <summary>Why do we need hooks?</summary>
 
-Hooks are a way of letting the developer use State or other React Features without necessarily writing class components (sounds cool, right?!). Previously React required that to create state or set State of a component on needs to declare a class component where the state could be initialized and then would be later used in the class component. Using React hooks one can easily initialize state or any lifecycle methods within functional components. An example would be setting initial state of counter in a functional component and incrementing the counter as a button is clicked. 
+Hooks are a way of letting the developer use State or other React Features without necessarily writing class components (sounds cool, right?!). Previously React required that to create state or set State of a component on needs to declare a class component where the state could be initialized and then would be later used in the class component. Using React hooks one can easily initialize state or any lifecycle methods within functional components. An example would be setting initial state of counter in a functional component and incrementing the counter as a button is clicked.
 
 ```
 import { useState } from 'react';
@@ -33,11 +33,12 @@ function Example() {
 }
 
 ```
-From the above the `useState` is the hook which we use to initialize our state, to trigger the hook we call the function that we declare while initializing the react hook which is `setCount`. It is important to note that the hook will only be used with the initial state and will only work withing react functional components. 
+
+From the above the `useState` is the hook which we use to initialize our state, to trigger the hook we call the function that we declare while initializing the react hook which is `setCount`. It is important to note that the hook will only be used with the initial state and will only work withing react functional components.
 
 </details>
 
-----
+---
 
 <details>
 <summary>Why can’t we use variables/functions directly inside a function component?</summary>
@@ -48,14 +49,52 @@ If you know the answer to this question, please submit a pull request with the a
 
 _Waiting for response_
 
-
-----
+---
 
 <details>
 <summary>What are React render props?</summary>
+The term “render prop” refers to a technique for sharing code between React components using a prop whose value is a function.
 
-If you know the answer to this question, please submit a pull request with the answer.
+See [here](https://reactjs.org/docs/render-props.html) the official docs' to understand better.
+In the example below, we are creating a component `Post` to set our posts data and passing it to another component.
+
+```
+import React from "react";
+import { useState } from "react";
+const Post = () => {
+  const [posts, setPosts] = useState([
+    { id: 1, title: "Post one title" },
+    { id: 2, title: "Post two title" },
+  ]);
+  return (
+    <>
+      <h1>Posts</h1>
+      {posts.map((post) => (
+        <PostList key={post.id} posts={post}></PostList>
+      ))}
+    </>
+  );
+};
+
+export default Post;
+
+```
+
+Passing `posts={post}` as a prop in `PostList` component.
+
+```
+const PostList = (props) => {
+  const { title } = props.posts;
+  return (
+    <>
+      <h2>{title}</h2>
+    </>
+  );
+};
+export default PostList;
+
+```
+
+In `PostList` above, we receive data as a `prop` and destruct `title` (or can be anything) from `props.posts`. And displaying `title` in JSX.
 
 </details>
-
-_Waiting for response_
