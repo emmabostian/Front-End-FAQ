@@ -54,8 +54,42 @@ _Waiting for response_
 <details>
 <summary>What are React render props?</summary>
 
-If you know the answer to this question, please submit a pull request with the answer.
+In React, render props is a technique used to share code between components. It involves passing a function as a prop to a component, which the component can then call to render some part of its content.
 
-</details>
+Here's an example of how render props work:  
+## React Render Props Example
 
-_Waiting for response_
+This example demonstrates how to use React render props.
+
+```jsx
+import React from 'react';
+
+function RenderProp(props) {
+  return (
+    <div>
+      <h2>{props.render("Hello, world!")}</h2>
+    </div>
+  );
+}
+
+function App() {
+  return (
+    <div>
+      <h1>React Render Props Example</h1>
+      <RenderProp render={(message) => <p>{message}</p>} />
+    </div>
+  );
+}
+
+export default App;  
+
+```  
+<small>This example demonstrates how to use the Render Props pattern in React. We have a RenderProp component that accepts a render prop, which is a function that takes a message as an argument and returns some JSX. The RenderProp component uses this function to render the message in an `<h2>` element.
+
+In the App component, we use the RenderProp component and pass it a custom rendering function using the render prop. This function takes a message as an argument and returns a `<p> `element that displays the message.
+
+When the RenderProp component is rendered, it calls the rendering function that was passed to it as a prop with the message "Hello, world!" as an argument. This results in the message being displayed in a `<p>` element.
+
+By using the render prop, we can create reusable components that can be customized with different rendering functions. This makes our code more flexible and easier to maintain.</small>.
+
+</details>  
